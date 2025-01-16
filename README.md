@@ -7,6 +7,9 @@ Non-commercial accessories for Genmitsu CNC
 
 
 
+
+   
+
 *  Genmitsu 4040 Enclosure box
 
 ![095ee7b759de09e939b294cafe7bc573](https://github.com/user-attachments/assets/55990078-8047-46f8-8a19-e20183d1df3f)
