@@ -53,7 +53,7 @@
 
 
 
--terminal block wires (AWG 16 to AWG 28 range)
+- terminal block wires (AWG 16 to AWG 28 range)
 
 ![image](https://github.com/user-attachments/assets/21c7a4af-4cbe-4be3-89a5-a99aa0289fba) 
 
