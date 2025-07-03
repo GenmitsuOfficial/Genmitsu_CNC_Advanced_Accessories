@@ -1,9 +1,9 @@
 
 #Non-commercial accessories for Genmitsu CNC List
 
-## Genmitsu 4040 Enclosure box
-## Genmitsu Spindle Laser Mount
-## 4030 CNC driving High-power water-cooled spindle
+- Genmitsu 4040 Enclosure box
+- Genmitsu Spindle Laser Mount
+- 4030 CNC driving High-power water-cooled spindle
 
 
 
