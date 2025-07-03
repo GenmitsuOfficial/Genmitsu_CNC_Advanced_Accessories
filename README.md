@@ -23,11 +23,14 @@
 <br>
 
 <br>
+<br>
 
+<br>
 ## 4030 CNC driving High-power water-cooled spindle
 
 
 ### Prepare
+
 
 - PWM to Voltage Module 
 ![image](https://github.com/user-attachments/assets/ad0ddc23-f1e0-47e4-ad13-dd81f97915b5)
@@ -45,7 +48,7 @@
 -terminal block wires (AWG 16 to AWG 28 range)
 ![image](https://github.com/user-attachments/assets/21c7a4af-4cbe-4be3-89a5-a99aa0289fba)
 
-- 3pin laser cable
+- 3 pin laser cable
 ![image](https://github.com/user-attachments/assets/06cb787c-3de6-480a-90ca-e4216f3e15d7)
 
 
