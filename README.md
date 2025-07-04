@@ -74,8 +74,9 @@
 
 ### MK100 Settings
 
-- ​​Set parameter P0-02 to 1​​ (Enable MK100 using ​External terminal control)​​ 
+ - ​​Set parameter P0-02 to 1​​ (Enable MK100 using ​External terminal control)​​ 
   
-​​- Set parameter P0-03 to 2​ (Main frequency source = ​​A11 port (0-10V analog signal))​
+
+ ​​- Set parameter P0-03 to 2​ (Main frequency source = ​​A11 port (0-10V analog signal))​
 
 
